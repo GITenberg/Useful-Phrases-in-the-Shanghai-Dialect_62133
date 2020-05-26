@@ -1,0 +1,23 @@
+_repo: Useful-Phrases-in-the-Shanghai-Dialect_62133
+_version: 0.0.1
+creator:
+  author:
+    agent_name: McIntosh, Gilbert
+    gutenberg_agent_id: '51787'
+    url: http://www.gutenberg.org/2009/agents/51787
+description: ''
+gutenberg_issued: '2020-05-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62133'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Chinese language -- Dialects -- China -- Shanghai'
+- !lcsh 'Chinese language -- Conversation and phrase-books'
+- !lcc 'PL'
+- GITenberg
+title: Useful Phrases in the Shanghai Dialect
+url: http://www.gutenberg.org/ebooks/62133
